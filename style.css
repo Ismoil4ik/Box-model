@@ -1,0 +1,48 @@
+body{
+    background: rgb(42, 93, 90);
+}
+.tittle{
+    width: 400px;
+height: 60px;
+background-color: rgb(49, 19, 19);
+text-align: center;
+color: white;
+margin: auto auto;
+
+}
+.first_h{
+    color: white;
+    font-family: Inter;
+    padding: 12px;
+    font-size: 35px;
+
+}
+.big_div{
+background-color: black;
+border: 5px solid;
+border-color: red;
+width: 560px;
+height: 350px;
+margin: auto;
+
+}
+.first_div{
+    margin: 17px auto;
+    padding: 30 px 0;
+}
+.sm_div{
+    background-color: rgb(31, 232, 183);
+    width: 490px;
+height: 135px;
+text-align: center;
+margin: 28px auto;
+
+}
+.sm_div>p{
+    text-align: center;
+    margin-top: auto;
+    padding: 20px;
+    text-align: justify;
+    font-family: Inter;
+    letter-spacing: 0%;
+}
